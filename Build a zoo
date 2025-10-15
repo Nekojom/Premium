@@ -89,8 +89,7 @@ do
             elseif bazs == "TinyHub" then
                 loadstring(game:HttpGet("https://raw.githubusercontent.com/TinySenpaiz/TinyHub/refs/heads/main/TinyHub.lua"))();
             elseif bazs == "Dodohub" then 
-                script_key="YkMEYbOVwbAvMVKgMBlJdFfmQybZkqmt";
-                loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a05bf6f6f0615db868a8d25c1f1c67b2.lua"))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/dodohubx-rgb/dodohub/refs/heads/main/loader.luau"))();
 
 
 
